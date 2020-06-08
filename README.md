@@ -6,13 +6,10 @@
 ## Conteúdo
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Projeto web](#projeto-web)
-* Projeto mobile - EM DESENVOLVIMENTO
 
 ## Tecnologias utilizadas
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.io/)
 
 ## Projeto web
 - A parte web do projeto é onde as empresas fazem o cadastro no app.
@@ -21,5 +18,3 @@
 
 <img src="img/pagina1web.png" alt="pagina1web"/>
 <img src="img/pagina2web.png" alt="pagina2web"/>
-
-## Projeto mobile
